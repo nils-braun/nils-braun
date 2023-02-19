@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Nils! 👋
+
+I am making my contributions to all projects on GitHub solely in my personal capacity and am not conveying any rights to any intellectual property of any third parties.
 
 <!--
 **nils-braun/nils-braun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
